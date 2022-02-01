@@ -14,6 +14,12 @@ let map = new Map();
 all.forEach(item => map.set(item.name, item));
 let result = new Array(...map.values());
 
+function nameOf(item) {
+    return `${item.vendor}-${item.type}-${item.family}-${item.name}`;
+}
+
+result.sort((a, b) => nameOf(a).localeCompare(nameOf(b)));
+
 fs.writeFileSync("list.json", JSON.stringify(result, null, 2));
 
 console.log("total", result.length);
