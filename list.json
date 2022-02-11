@@ -316,6 +316,22 @@
     "url": "https://misdake.github.io/ChipAnnotationData/Cayman"
   },
   {
+    "vendor": "Huawei",
+    "type": "CPU",
+    "family": "Kunpeng",
+    "name": "Kunpeng920_core",
+    "listname": "Kunpeng920_core",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_core"
+  },
+  {
+    "vendor": "Huawei",
+    "type": "CPU",
+    "family": "Kunpeng",
+    "name": "Kunpeng920_io",
+    "listname": "Kunpeng920_io",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_io"
+  },
+  {
     "vendor": "Intel",
     "type": "CPU",
     "family": "AlderLake",
