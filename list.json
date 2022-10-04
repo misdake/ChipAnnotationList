@@ -336,16 +336,32 @@
     "type": "CPU",
     "family": "AlderLake",
     "name": "ADL-P_6+8",
-    "listname": "ADL-P 6+8",
+    "listname": "ADL-P 6+8 (lowres)",
     "url": "https://misdake.github.io/ChipAnnotationData6/ADL-P_6+8"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "AlderLake",
+    "name": "ADL-S_6+0",
+    "listname": "ADL-S 6+0",
+    "url": "https://misdake.github.io/ChipAnnotationData7/ADL-S_6+0"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "AlderLake",
     "name": "ADL-S_8+8",
-    "listname": "ADL-S 8+8",
+    "listname": "ADL-S 8+8 (lowres)",
     "url": "https://misdake.github.io/ChipAnnotationData6/ADL-S_8+8"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "AlderLake",
+    "name": "Golden_Cove_Core",
+    "listname": "Golden Cove Core",
+    "url": "https://misdake.github.io/ChipAnnotationData7/Golden_Cove_Core"
   },
   {
     "vendor": "Intel",
