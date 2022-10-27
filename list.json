@@ -410,6 +410,38 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "RaptorLake",
+    "name": "Gracemont_Cluster",
+    "listname": "Gracemont Cluster",
+    "url": "https://misdake.github.io/ChipAnnotationData7/Gracemont_Cluster"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "RaptorLake",
+    "name": "Gracemont_Core",
+    "listname": "Gracemont Core",
+    "url": "https://misdake.github.io/ChipAnnotationData7/Gracemont_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "RaptorLake",
+    "name": "Raptor_Cove_Core",
+    "listname": "Raptor Cove Core",
+    "url": "https://misdake.github.io/ChipAnnotationData7/Raptor_Cove_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "RaptorLake",
+    "name": "RPL-S_8+16",
+    "listname": "RPL-S 8+16",
+    "url": "https://misdake.github.io/ChipAnnotationData7/RPL-S_8+16"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Rocketlake",
     "name": "Rocketlake_8C",
     "listname": "Rocketlake_8C",
