@@ -122,6 +122,30 @@
     "url": "https://misdake.github.io/ChipAnnotationData6/Cezanne_IR"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen4",
+    "name": "Raphael_IOD",
+    "listname": "Raphael IOD (IR)",
+    "url": "https://misdake.github.io/ChipAnnotationData7/Raphael_IOD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen4",
+    "name": "Zen4_CCD",
+    "listname": "Zen4 CCD",
+    "url": "https://misdake.github.io/ChipAnnotationData7/Zen4_CCD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen4",
+    "name": "Zen4_Core",
+    "listname": "Zen4 Core",
+    "url": "https://misdake.github.io/ChipAnnotationData7/Zen4_Core"
+  },
+  {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
