@@ -391,17 +391,17 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "Atom",
-    "name": "Saltwell(Cloverview)",
-    "listname": "Saltwell(Cloverview)",
-    "url": "https://misdake.github.io/ChipAnnotationData6/Saltwell"
+    "name": "BayTrail",
+    "listname": "Silvermont(BayTrail)",
+    "url": "https://misdake.github.io/ChipAnnotationData7/BayTrail"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Atom",
-    "name": "Silvermont(BayTrail)",
-    "listname": "Silvermont(BayTrail)",
-    "url": "https://misdake.github.io/ChipAnnotationData7/BayTrail"
+    "name": "Saltwell",
+    "listname": "Saltwell(Cloverview)",
+    "url": "https://misdake.github.io/ChipAnnotationData6/Saltwell"
   },
   {
     "vendor": "Intel",
