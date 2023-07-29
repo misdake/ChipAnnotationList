@@ -17,6 +17,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Bulldozer",
+    "name": "Bulldozer_Module",
+    "listname": "Bulldozer Module",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Bulldozer_Module"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "K10",
     "name": "Agena",
     "listname": "Agena",
