@@ -154,6 +154,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData7/Zen4_Core"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen4+RDNA3",
+    "name": "Phoenix",
+    "listname": "Phoenix",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Phoenix"
+  },
+  {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
@@ -615,6 +623,14 @@
     "name": "Xbox_Series_X",
     "listname": "Xbox Series X",
     "url": "https://misdake.github.io/ChipAnnotationData/Xbox_Series_X"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ada",
+    "name": "AD102",
+    "listname": "AD102",
+    "url": "https://misdake.github.io/ChipAnnotationData2/AD102"
   },
   {
     "vendor": "nVIDIA",
