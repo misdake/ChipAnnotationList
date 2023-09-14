@@ -162,6 +162,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData2/Phoenix"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen4+RDNA3",
+    "name": "Phoenix2",
+    "listname": "Phoenix2",
+    "url": "https://misdake.github.io/ChipAnnotationData2/Phoenix2"
+  },
+  {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
