@@ -125,6 +125,14 @@
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen3+GCN5",
+    "name": "Cezanne",
+    "listname": "Cezanne",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Cezanne"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen3+GCN5",
     "name": "Cezanne_IR",
     "listname": "Cezanne(IR)",
     "url": "https://misdake.github.io/ChipAnnotationData6/Cezanne_IR"
@@ -430,6 +438,14 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "Broadwell",
+    "name": "Broadwell_2+2",
+    "listname": "Broadwell_2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Broadwell_2+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "CannonLake",
     "name": "CannonLake_2C_GT2",
     "listname": "CannonLake_2C_GT2",
@@ -456,6 +472,14 @@
     "family": "IvyBridge",
     "name": "IvyBridge_2+2",
     "url": "https://misdake.github.io/ChipAnnotationData3/IvyBridge_2+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "IvyBridge",
+    "name": "IvyBridge_E",
+    "listname": "IvyBridge_E",
+    "url": "https://misdake.github.io/ChipAnnotationData8/IvyBridge_E"
   },
   {
     "vendor": "Intel",
@@ -537,6 +561,14 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "SandyBridge",
+    "name": "SandyBridge_EP",
+    "listname": "SandyBridge_EP",
+    "url": "https://misdake.github.io/ChipAnnotationData8/SandyBridge_EP"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SandyBridge",
     "name": "SandyBridge_IGP",
     "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_IGP"
   },
@@ -591,6 +623,14 @@
     "name": "Knights_Landing",
     "listname": "Knights Landing",
     "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
+  },
+  {
+    "vendor": "Loongson",
+    "type": "CPU",
+    "family": "Loongson3",
+    "name": "3C5000L",
+    "listname": "3C5000L",
+    "url": "https://misdake.github.io/ChipAnnotationData8/3C5000L"
   },
   {
     "vendor": "Microsoft",
@@ -909,6 +949,30 @@
     "url": "https://misdake.github.io/ChipAnnotationData6/TegraX1"
   },
   {
+    "vendor": "Qualcomm",
+    "type": "CPU",
+    "family": "Snapdragon",
+    "name": "Snapdragon820",
+    "listname": "Snapdragon820",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Snapdragon820"
+  },
+  {
+    "vendor": "Qualcomm",
+    "type": "CPU",
+    "family": "Snapdragon",
+    "name": "Snapdragon888",
+    "listname": "Snapdragon888",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Snapdragon888"
+  },
+  {
+    "vendor": "Samsung",
+    "type": "CPU",
+    "family": "Exynos8",
+    "name": "Exynos8890",
+    "listname": "Exynos8890",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Exynos8890"
+  },
+  {
     "vendor": "Sony",
     "type": "Console",
     "family": "PS3",
@@ -936,6 +1000,14 @@
     "name": "PS5",
     "listname": "PS5",
     "url": "https://misdake.github.io/ChipAnnotationData6/PS5"
+  },
+  {
+    "vendor": "Sunway",
+    "type": "CPU",
+    "family": "SW-3",
+    "name": "SW1621",
+    "listname": "SW1621",
+    "url": "https://misdake.github.io/ChipAnnotationData8/SW1621"
   },
   {
     "vendor": "Test",

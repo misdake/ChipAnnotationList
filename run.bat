@@ -1,1 +1,2 @@
 node collect.js
+pause
