@@ -181,9 +181,89 @@
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
+    "name": "A10",
+    "listname": "A10",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A10"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A11",
+    "listname": "A11",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A11"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A12",
+    "listname": "A12",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A12"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A14",
+    "listname": "A14",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A14"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A15",
+    "listname": "A15",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A15"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A4",
+    "listname": "A4",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A4"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A5",
+    "listname": "A5",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A5"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A5X",
+    "listname": "A5X",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A5X"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A6",
+    "listname": "A6",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A6"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A7",
+    "listname": "A7",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A7"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
     "name": "A8",
     "listname": "A8",
-    "url": "https://misdake.github.io/ChipAnnotationData6/A8"
+    "url": "https://misdake.github.io/ChipAnnotationData8/A8"
   },
   {
     "vendor": "Apple",
@@ -191,7 +271,23 @@
     "family": "",
     "name": "A8X",
     "listname": "A8X",
-    "url": "https://misdake.github.io/ChipAnnotationData6/A8X"
+    "url": "https://misdake.github.io/ChipAnnotationData8/A8X"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A9_TSMC",
+    "listname": "A9_TSMC",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A9_TSMC"
+  },
+  {
+    "vendor": "Apple",
+    "type": "SoC",
+    "family": "",
+    "name": "A9X",
+    "listname": "A9X",
+    "url": "https://misdake.github.io/ChipAnnotationData8/A9X"
   },
   {
     "vendor": "ATI/AMD",
@@ -950,7 +1046,7 @@
   },
   {
     "vendor": "Qualcomm",
-    "type": "CPU",
+    "type": "SoC",
     "family": "Snapdragon",
     "name": "Snapdragon820",
     "listname": "Snapdragon820",
@@ -958,7 +1054,7 @@
   },
   {
     "vendor": "Qualcomm",
-    "type": "CPU",
+    "type": "SoC",
     "family": "Snapdragon",
     "name": "Snapdragon888",
     "listname": "Snapdragon888",
@@ -966,7 +1062,7 @@
   },
   {
     "vendor": "Samsung",
-    "type": "CPU",
+    "type": "SoC",
     "family": "Exynos8",
     "name": "Exynos8890",
     "listname": "Exynos8890",
