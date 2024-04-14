@@ -157,6 +157,14 @@
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen4",
+    "name": "Raphael_IOD_2",
+    "listname": "Raphael IOD",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Raphael_IOD_2"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen4",
     "name": "Zen4_CCD",
     "listname": "Zen4 CCD",
     "url": "https://misdake.github.io/ChipAnnotationData7/Zen4_CCD"
@@ -829,8 +837,16 @@
     "type": "GPU",
     "family": "Ada",
     "name": "AD102",
-    "listname": "AD102",
+    "listname": "AD102(IR)",
     "url": "https://misdake.github.io/ChipAnnotationData2/AD102"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ada",
+    "name": "AD102_2",
+    "listname": "AD102",
+    "url": "https://misdake.github.io/ChipAnnotationData8/AD102_2"
   },
   {
     "vendor": "nVIDIA",
