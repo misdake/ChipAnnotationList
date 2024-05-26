@@ -604,6 +604,14 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "IvyBridge",
+    "name": "IvyBridgeEX",
+    "listname": "IvyBridgeEX",
+    "url": "https://misdake.github.io/ChipAnnotationData4/IvyBridgeEX"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "MeteorLake",
     "name": "MeteorLake_CPU_2+8",
     "listname": "MeteorLake_CPU_2+8",
@@ -854,6 +862,14 @@
     "family": "Ampere",
     "name": "GA102",
     "url": "https://misdake.github.io/ChipAnnotationData5/GA102"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ampere",
+    "name": "GA106",
+    "listname": "GA106",
+    "url": "https://misdake.github.io/ChipAnnotationData4/GA106"
   },
   {
     "vendor": "nVIDIA",
