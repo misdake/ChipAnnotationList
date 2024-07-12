@@ -194,14 +194,6 @@
     "url": "https://misdake.github.io/ChipAnnotationData2/Phoenix2"
   },
   {
-    "vendor": "AMD",
-    "type": "GPU",
-    "family": "RDNA",
-    "name": "Navi12",
-    "listname": "Navi12",
-    "url": "https://misdake.github.io/ChipAnnotationData8/Navi12"
-  },
-  {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
@@ -432,6 +424,14 @@
     "family": "RDNA",
     "name": "Navi10",
     "url": "https://misdake.github.io/ChipAnnotationData3/Navi10"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "RDNA",
+    "name": "Navi12",
+    "listname": "Navi12",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Navi12"
   },
   {
     "vendor": "ATI/AMD",
