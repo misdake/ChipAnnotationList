@@ -194,6 +194,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData2/Phoenix2"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen5+RDNA3.5",
+    "name": "StrixPoint",
+    "listname": "StrixPoint",
+    "url": "https://misdake.github.io/ChipAnnotationData8/StrixPoint"
+  },
+  {
     "vendor": "Apple",
     "type": "SoC",
     "family": "",
