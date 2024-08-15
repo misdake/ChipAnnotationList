@@ -196,6 +196,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Zen5",
+    "name": "Zen5_CCD",
+    "listname": "Zen5_CCD",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Zen5_CCD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen5+RDNA3.5",
     "name": "StrixPoint",
     "listname": "StrixPoint",
@@ -645,6 +653,14 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "MeteorLake",
+    "name": "MeteorLake_BaseDie",
+    "listname": "MeteorLake_BaseDie",
+    "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_BaseDie"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MeteorLake",
     "name": "MeteorLake_CPU_2+8",
     "listname": "MeteorLake_CPU_2+8",
     "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_CPU_2+8"
@@ -763,6 +779,14 @@
     "family": "SandyBridge",
     "name": "SandyBridge_IGP",
     "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_IGP"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SapphireRapids",
+    "name": "SapphireRapids",
+    "listname": "SapphireRapids",
+    "url": "https://misdake.github.io/ChipAnnotationData8/SapphireRapids"
   },
   {
     "vendor": "Intel",
