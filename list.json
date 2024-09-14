@@ -25,10 +25,26 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Bulldozer",
+    "name": "Interlagos_4M",
+    "listname": "Interlagos_4M",
+    "url": "https://misdake.github.io/ChipAnnotationData8/Interlagos_4M"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "K10",
     "name": "Agena",
     "listname": "Agena",
     "url": "https://misdake.github.io/ChipAnnotationData6/Agena"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "K10",
+    "name": "MagnyCours_6C",
+    "listname": "MagnyCours_6C",
+    "url": "https://misdake.github.io/ChipAnnotationData8/MagnyCours_6C"
   },
   {
     "vendor": "AMD",
@@ -1187,6 +1203,14 @@
     "name": "TU116_2",
     "listname": "TU116",
     "url": "https://misdake.github.io/ChipAnnotationData5/TU116_2"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Volta",
+    "name": "GV100",
+    "listname": "GV100",
+    "url": "https://misdake.github.io/ChipAnnotationData8/GV100"
   },
   {
     "vendor": "nVIDIA",
