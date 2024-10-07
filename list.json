@@ -220,6 +220,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Zen5",
+    "name": "Zen5_CCD_HiRes",
+    "listname": "Zen5_CCD_HiRes",
+    "url": "https://misdake.github.io/ChipAnnotationData9/Zen5_HiRes"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen5+RDNA3.5",
     "name": "StrixPoint",
     "listname": "StrixPoint",
