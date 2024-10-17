@@ -275,7 +275,7 @@
   },
   {
     "vendor": "Apple",
-    "type": "Soc",
+    "type": "SoC",
     "family": "",
     "name": "A18_Pro",
     "listname": "A18_Pro",
