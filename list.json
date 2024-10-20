@@ -765,6 +765,14 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "MeteorLake",
+    "name": "MeteorLake_GPU_UP4",
+    "listname": "MeteorLake_GPU_UP4",
+    "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_GPU_UP4"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MeteorLake",
     "name": "MeteorLake_IO",
     "listname": "MeteorLake_IO",
     "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_IO"
@@ -943,14 +951,6 @@
     "name": "Clarkdale",
     "listname": "Clarkdale",
     "url": "https://misdake.github.io/ChipAnnotationData6/Clarkdale"
-  },
-  {
-    "vendor": "Intel",
-    "type": "GPU",
-    "family": "MeteorLake",
-    "name": "MeteorLake_GPU_UP4",
-    "listname": "MeteorLake_GPU_UP4",
-    "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_GPU_UP4"
   },
   {
     "vendor": "Intel",
