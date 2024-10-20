@@ -677,6 +677,14 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "IceLake",
+    "name": "IceLake_4c",
+    "listname": "IceLake_4c",
+    "url": "https://misdake.github.io/ChipAnnotationData9/IceLake_4c"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Itanium",
     "name": "Tukwila",
     "listname": "Tukwila",
@@ -760,6 +768,14 @@
     "name": "MeteorLake_IO",
     "listname": "MeteorLake_IO",
     "url": "https://misdake.github.io/ChipAnnotationData8/MeteorLake_IO"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "MeteorLake",
+    "name": "MeteorLake_IO_UP4",
+    "listname": "MeteorLake_IO_UP4",
+    "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_IO_UP4"
   },
   {
     "vendor": "Intel",
@@ -915,10 +931,26 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "TigerLake",
+    "name": "TigerLake_8c",
+    "listname": "TigerLake_8c",
+    "url": "https://misdake.github.io/ChipAnnotationData9/TigerLake_8c"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Westmere",
     "name": "Clarkdale",
     "listname": "Clarkdale",
     "url": "https://misdake.github.io/ChipAnnotationData6/Clarkdale"
+  },
+  {
+    "vendor": "Intel",
+    "type": "GPU",
+    "family": "MeteorLake",
+    "name": "MeteorLake_GPU_UP4",
+    "listname": "MeteorLake_GPU_UP4",
+    "url": "https://misdake.github.io/ChipAnnotationData9/MeteorLake_GPU_UP4"
   },
   {
     "vendor": "Intel",
