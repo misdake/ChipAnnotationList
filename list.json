@@ -1026,6 +1026,14 @@
   },
   {
     "vendor": "nVIDIA",
+    "type": "Comparison",
+    "family": "",
+    "name": "Pascal_to_Blackwell",
+    "listname": "Pascal to Blackwell",
+    "url": "https://misdake.github.io/ChipAnnotationData9/Pascal_to_Blackwell"
+  },
+  {
+    "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Ada",
     "name": "AD102",
@@ -1054,6 +1062,14 @@
     "name": "GA106",
     "listname": "GA106",
     "url": "https://misdake.github.io/ChipAnnotationData4/GA106"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Blackwell",
+    "name": "GB202",
+    "listname": "GB202",
+    "url": "https://misdake.github.io/ChipAnnotationData9/GB202"
   },
   {
     "vendor": "nVIDIA",
