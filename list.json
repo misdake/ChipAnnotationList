@@ -229,6 +229,14 @@
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen5+RDNA3.5",
+    "name": "StrixHalo",
+    "listname": "StrixHalo",
+    "url": "https://misdake.github.io/ChipAnnotationData9/StrixHalo"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen5+RDNA3.5",
     "name": "StrixHalo_CCD",
     "listname": "StrixHalo_CCD",
     "url": "https://misdake.github.io/ChipAnnotationData9/StrixHalo_CCD"
@@ -237,25 +245,17 @@
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen5+RDNA3.5",
-    "name": "StrixPoint",
-    "listname": "StrixPoint",
-    "url": "https://misdake.github.io/ChipAnnotationData8/StrixPoint"
-  },
-  {
-    "vendor": "AMD",
-    "type": "GPU",
-    "family": "Zen5+RDNA3.5",
-    "name": "StrixHalo",
-    "listname": "StrixHalo",
-    "url": "https://misdake.github.io/ChipAnnotationData9/StrixHalo"
-  },
-  {
-    "vendor": "AMD",
-    "type": "GPU",
-    "family": "Zen5+RDNA3.5",
     "name": "StrixHalo_IOD",
     "listname": "StrixHalo_IOD",
     "url": "https://misdake.github.io/ChipAnnotationData9/StrixHalo_IOD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen5+RDNA3.5",
+    "name": "StrixPoint",
+    "listname": "StrixPoint",
+    "url": "https://misdake.github.io/ChipAnnotationData8/StrixPoint"
   },
   {
     "vendor": "Apple",
