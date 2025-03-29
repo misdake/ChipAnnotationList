@@ -518,6 +518,7 @@
     "type": "GPU",
     "family": "RDNA",
     "name": "Navi14",
+    "listname": "Navi14(IR)",
     "url": "https://misdake.github.io/ChipAnnotationData3/Navi14"
   },
   {
@@ -527,6 +528,14 @@
     "name": "Navi14_2",
     "listname": "Navi14",
     "url": "https://misdake.github.io/ChipAnnotationData6/Navi14_2"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "RDNA2",
+    "name": "Navi21",
+    "listname": "Navi21",
+    "url": "https://misdake.github.io/ChipAnnotationData9/Navi21"
   },
   {
     "vendor": "ATI/AMD",
