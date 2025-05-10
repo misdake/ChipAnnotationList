@@ -621,6 +621,14 @@
     "url": "https://misdake.github.io/ChipAnnotationData6/Kunpeng920_io"
   },
   {
+    "vendor": "Hygon",
+    "type": "GPU",
+    "family": "",
+    "name": "Kongming",
+    "listname": "Kongming",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Kongming"
+  },
+  {
     "vendor": "Intel",
     "type": "CPU",
     "family": "AlderLake",
@@ -1111,6 +1119,14 @@
     "name": "GA106",
     "listname": "GA106",
     "url": "https://misdake.github.io/ChipAnnotationData4/GA106"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ampere",
+    "name": "GA107",
+    "listname": "GA107",
+    "url": "https://misdake.github.io/ChipAnnotationData10/GA107"
   },
   {
     "vendor": "nVIDIA",
