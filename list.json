@@ -663,6 +663,14 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "ArrowLake",
+    "name": "ArrowLake_HiRes",
+    "listname": "ArrowLake_HiRes",
+    "url": "https://misdake.github.io/ChipAnnotationData10/ArrowLake_HiRes"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Atom",
     "name": "BayTrail",
     "listname": "Silvermont(BayTrail)",
@@ -785,6 +793,14 @@
     "name": "LunarLake_Compute",
     "listname": "LunarLake_Compute",
     "url": "https://misdake.github.io/ChipAnnotationData9/LunarLake_Compute"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "LunarLake",
+    "name": "LunarLake_HiRes",
+    "listname": "LunarLake_HiRes",
+    "url": "https://misdake.github.io/ChipAnnotationData10/LunarLake_HiRes"
   },
   {
     "vendor": "Intel",
