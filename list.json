@@ -33,6 +33,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Jaguar+GCN2",
+    "name": "Kabini",
+    "listname": "Kabini",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Kabini"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "K10",
     "name": "Agena",
     "listname": "Agena",
@@ -420,6 +428,14 @@
     "family": "GCN3",
     "name": "Fiji",
     "url": "https://misdake.github.io/ChipAnnotationData/Fiji"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN3",
+    "name": "Tonga",
+    "listname": "Tonga",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Tonga"
   },
   {
     "vendor": "ATI/AMD",
