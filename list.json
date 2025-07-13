@@ -1126,8 +1126,24 @@
     "type": "Console",
     "family": "XboxSeries",
     "name": "Xbox_Series_X",
-    "listname": "Xbox Series X",
+    "listname": "Xbox Series X LowRes",
     "url": "https://misdake.github.io/ChipAnnotationData/Xbox_Series_X"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "Console",
+    "family": "XboxSeries",
+    "name": "XboxSeriesS",
+    "listname": "Xbox Series S",
+    "url": "https://misdake.github.io/ChipAnnotationData10/XboxSeriesS"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "Console",
+    "family": "XboxSeries",
+    "name": "XboxSeriesX_2",
+    "listname": "Xbox Series X",
+    "url": "https://misdake.github.io/ChipAnnotationData10/XboxSeriesX_2"
   },
   {
     "vendor": "nVIDIA",
