@@ -229,6 +229,14 @@
     "vendor": "AMD",
     "type": "CPU",
     "family": "Zen5",
+    "name": "Turin_IOD",
+    "listname": "Turin_IOD",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Turin_IOD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen5",
     "name": "Zen5_CCD",
     "listname": "Zen5_CCD",
     "url": "https://misdake.github.io/ChipAnnotationData8/Zen5_CCD"
