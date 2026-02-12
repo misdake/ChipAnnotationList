@@ -642,7 +642,7 @@
     "type": "GPU",
     "family": "TeraScale3",
     "name": "Cayman",
-    "url": "https://misdake.github.io/ChipAnnotationData/Cayman"
+    "url": "https://chip.rgbuv.xyz/chip/Cayman"
   },
   {
     "vendor": "Glenfly",
