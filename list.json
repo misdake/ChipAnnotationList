@@ -642,7 +642,7 @@
     "type": "GPU",
     "family": "TeraScale3",
     "name": "Cayman",
-    "url": "https://misdake.github.io/ChipAnnotationData/Cayman"
+    "url": "https://chip.rgbuv.xyz/chip/Cayman"
   },
   {
     "vendor": "Glenfly",
@@ -927,6 +927,30 @@
     "family": "P6",
     "name": "Coppermine",
     "url": "https://misdake.github.io/ChipAnnotationData3/Coppermine"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "PantherLake",
+    "name": "PantherLakeH_CPU",
+    "listname": "PantherLakeH CPU",
+    "url": "https://chip.rgbuv.xyz/chip/PantherLakeH_CPU"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "PantherLake",
+    "name": "PantherLakeH_GPU",
+    "listname": "PantherLakeH GPU",
+    "url": "https://chip.rgbuv.xyz/chip/PantherLakeH_GPU"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "PantherLake",
+    "name": "PantherLakeH_IO",
+    "listname": "PantherLakeH IO",
+    "url": "https://chip.rgbuv.xyz/chip/PantherLakeH_IO"
   },
   {
     "vendor": "Intel",
@@ -1524,6 +1548,30 @@
     "name": "NVSwitch",
     "listname": "NVSwitch",
     "url": "https://misdake.github.io/ChipAnnotationData10/NVSwitch"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "SoC",
+    "family": "",
+    "name": "GB10_GPU",
+    "listname": "GB10 GPU",
+    "url": "https://chip.rgbuv.xyz/chip/GB10_GPU"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "SoC",
+    "family": "",
+    "name": "GB10_SoC_a",
+    "listname": "GB10 SoC(1)",
+    "url": "https://chip.rgbuv.xyz/chip/GB10_SoC_a"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "SoC",
+    "family": "",
+    "name": "GB10_SoC_b",
+    "listname": "GB10 SoC(2)",
+    "url": "https://chip.rgbuv.xyz/chip/GB10_SoC_b"
   },
   {
     "vendor": "nVIDIA",

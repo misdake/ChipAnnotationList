@@ -8,3 +8,4 @@ ChipAnnotationData7
 ChipAnnotationData8
 ChipAnnotationData9
 ChipAnnotationData10
+ChipAnnotationDataCdn
