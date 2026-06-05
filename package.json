@@ -1,0 +1,13 @@
+{
+  "name": "chip-annotation-list-editor",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "fill-flickr-author": "node fill-flickr-author.js",
+    "fill-flickr-author:dry-run": "node fill-flickr-author.js --dry-run"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
